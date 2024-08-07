@@ -1,4 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="1200" />
 
 <div align="center">
   <table style="border-collapse: collapse;">
@@ -18,7 +19,7 @@
 
 
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumail15&label=Profile%20views&color=0e75b6&style=flat" alt="sumail15" /> </p>
