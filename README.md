@@ -39,7 +39,7 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/atyabsumail/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/atyabsumail/" height="30" width="40" /></a>
 </p>
 <table width="100%" border="0px solid white" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-    <tr>
+    <tr border="0px">
         <td align="right">
           <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" />
         </td>
