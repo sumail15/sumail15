@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 Visit My Portfolio at [https://sumailalam.netlify.app/](https://sumailalam.netlify.app/)
+- 👨‍💻 Visit My Portfolio at [atyab.life](atyab.life)
 
 - 💬 Ask me about **ML, DL, Frontend Technologies, IOT, Data Science**
 
