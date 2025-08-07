@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 👨‍💻 Visit My Portfolio at [[atyab.life](https://atyab.life/)]
+- 👨‍💻 Visit My Portfolio at [atyab.life](https://atyab.life/)
 
 - 💬 Ask me about **ML, DL, Frontend Technologies, IOT, Data Science**
 
